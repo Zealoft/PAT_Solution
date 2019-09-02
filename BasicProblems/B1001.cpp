@@ -1,3 +1,6 @@
+/*
+ * PAT_B1001 害死人不偿命的(3n+1)猜想 (15 分)
+ */
 #include <cstdio>
 
 int main()
